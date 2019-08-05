@@ -10,6 +10,7 @@ These tools will help you for sure
 * Review Insights: Get Insights about the customer focus areas based n their reviews
 * Text Clustering 1: TFIDF+KMeans+Hierarchical
 * Text Clustering 2: Word Clustering (Word2Vec+KMeans+Hierarchical)
+* Text Clustering 3: Doc Clusetering (TFIDF weighted avg. Word2Vec +Kmeans + Hierarchical)
 * Text Similarities: Various Text Similarity Metrics
 * Text Summarizer 1: Text Summarizer based on word counts
 * Text Summarizer 2: Text Summarizer based on word counts and invesrse document frequency
