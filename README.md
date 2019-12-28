@@ -6,6 +6,7 @@ These tools will help you for sure
 
 * KeyWords CSV : Extract Keywords from csv data
 * KeyWords Text : Extract Keywords from string data
+* Knowledge Graph: Live Tweets
 * POS Based Keywords: Extract keywords from csv data taking into account their POS
 * Review Insights 1: Get Insights about the customer focus areas based on their reviews
 * Review Insights 2: Get Insights about the customer focus areas based on their reviews (less complex)
